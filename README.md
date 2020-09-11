@@ -1,3 +1,2 @@
 # 405-assignment1
-Bo Grujoski
-Spencer Williams-Waldemar
+Bo Grujoski & Spencer Williams-Waldemar

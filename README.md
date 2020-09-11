@@ -1,1 +1,3 @@
-# 405-assignment1\nBo Grujoski\nSpencer Williams-Waldemar
+# 405-assignment1
+Bo Grujoski
+Spencer Williams-Waldemar
